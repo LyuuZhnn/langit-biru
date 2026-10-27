@@ -1,0 +1,8 @@
+{
+  "name": "LANGIT BIRU",
+  "version": "1.0.0",
+  "description": "Premium colorful static e-commerce storefront and local admin dashboard",
+  "runtime": "HTML5, CSS3, Vanilla JavaScript modules, LocalStorage",
+  "hosting": "GitHub Pages",
+  "notes": "No backend; data and admin gate are local to each browser."
+}
